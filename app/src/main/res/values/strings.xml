@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Kalkulator Bilangan Kompleks</string>
+
+    <string name="action_settings">Settings</string>
+    <string-array name="operator">
+        <item>+</item>
+        <item>-</item>
+        <item>*</item>
+        <item>/</item>
+    </string-array>
+</resources>
